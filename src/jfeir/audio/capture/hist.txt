@@ -1,0 +1,500 @@
+   46  cd temp
+   47  _javax show ecom6.classes
+   48  _javax delete
+   49  curl -s get.gvmtool.net | bash
+   50  env
+   51  env | grep JAVA
+   52  java -version
+   53  groovy -version
+   54  groovysh
+   55  groovyConsole
+   56  groovy c:/audio/groovy/capture.groovy
+   57  groovyConsole
+   58  C:/apps/sr/streamripper.exe
+   59  C:/apps/sr/streamripper.exe
+   60  groovy c:/audio/groovy/capture.groovy
+   61  cd apps
+   62  dd
+   63  cd sr
+   64  ll
+   65  ./streamripper.exe http://prem1.di.fm:80/vocaltrance_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0
+   66  ./streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0
+   67  cd apps
+   68  cd sr
+   69  ll
+   70  ./streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0
+   71  cd ..
+   72  dd
+   73  cd Streamripper
+   74  ll
+   75  ./streamripper.exe
+   76  ./streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0
+   77  \
+   78  ./streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l5
+   79  ./streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 5
+   80  groovy c:/audio/groovy/capture.groovy
+   81  ll C:/apps/sr/streamripper.exe
+   82  pwd
+   83  groovy c:/audio/groovy/capture.groovy
+   84  streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 5
+   85  ll C:/apps/sr/streamripper.exe
+   86  C:/apps/Streamripper/streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 5
+   87  groovy c:/audio/groovy/capture.groovy
+   88  C:/apps/Streamripper/streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 5
+   89  C:/apps/Streamripper/streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 10
+   90  C:/apps/Streamripper/streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 5
+   91  C:/apps/Streamripper/streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 20
+   92  C:/apps/Streamripper/streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0
+   93  pwd
+   94  ll
+   95  ./streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0
+   96  groovy c:/audio/groovy/capture.groovy
+   97  C:/apps/Streamripper/streamripper.exe http://prem1.di.fm:80/vocalchillout_hi?xSshgJ01AE05ZIfzR -d c:/audio/stream-rip -u WinampMPEG/5.0 -l 20
+   98  groovy c:/audio/groovy/capture.groovy
+   99  [A
+  100  groovy c:/audio/groovy/capture.groovy
+  101  ps -ef
+  102  groovy c:/audio/groovy/capture.groovy
+  103   
+  104   C:/apps/Streamripper/streamripper.exe
+  105  groovy c:/audio/groovy/capture.groovy
+  106  ll
+  107  ./streamripper.exe
+  108  ./streamripper.exe -v
+  109  groovy c:/audio/groovy/capture.groovy
+  110  ll
+  111  ./streamripper
+  112  groovy c:/audio/groovy/capture.groovy
+  113  c
+  114  cd ..
+  115  dd
+  116  cd groovy
+  117  cd audio
+  118  dd
+  119  cd groovy
+  120  ll
+  121  bk
+  122  bk capture.groovy
+  123  ll
+  124  C:/apps/uncrustify-0.61.3-gf65394e-win32/uncrustify.exe -c C:/apps/uncrustify-0.61.3-gf65394e-win32/cfg/sun.cfg -f capture.groovy
+  125  C:/apps/uncrustify-0.61.3-gf65394e-win32/uncrustify.exe -c C:/apps/uncrustify-0.61.3-gf65394e-win32/cfg/sun.cfg -f capture.groovy > new-cap.groovy
+  126  C:/apps/uncrustify-0.61.3-gf65394e-win32/uncrustify.exe -c C:/apps/uncrustify-0.61.3-gf65394e-win32/cfg/defaults.cfg -f capture.groovy > new-cap.groovy
+  127  C:/apps/uncrustify-0.61.3-gf65394e-win32/uncrustify.exe -c C:/apps/uncrustify-0.61.3-gf65394e-win32/cfg/linux.cfg -f capture.groovy > new-cap.groovy
+  128  DD
+  129  dd
+  130  cd ..
+  131  cd workspace
+  132  cd c:/workspace
+  133  ll
+  134  dd
+  135  cd users
+  136  cd jfeir
+  137  dd
+  138  cd work|
+  139  cd workspace
+  140  dd
+  141  cd *
+  142  ll
+  143  cd src
+  144  ll
+  145  cd jfeir
+  146  ll
+  147  cd audio
+  148  ll
+  149  cd capture
+  150  ll
+  151  sps
+  152  ll
+  153  groovy capture.groovy
+  154  cd apps
+  155  dd
+  156  cd Streamripper
+  157  ll
+  158  ./streamripper.exe
+  159  pwd
+  160  history
+  161  cd users
+  162  cd jfeir
+  163  cd audio
+  164  cd workspace
+  165  ll
+  166  cd capture
+  167  ll
+  168  cd src
+  169  ll
+  170  cd jfeir
+  171  dd
+  172  cd *
+  173  ll
+  174  groovy capture.groovy
+  175  cd userw
+  176  cd users
+  177  cd jfeir
+  178  dd
+  179  cd workspace
+  180  ll
+  181  cd capture
+  182  dd
+  183  cd src
+  184  ll
+  185  cd jfeir
+  186  ll
+  187  cd *
+  188  ll
+  189  cd *
+  190  ll
+  191  groovy capture.groovy
+  192  cd c:/users/jfeir
+  193  ln -s C:/Users/jfeir/workspace2/capture/src/jfeir/audio/capture /usr/local/bin/capture
+  194  cd c:/users/jfeir
+  195  ln -s C:/Users/jfeir/workspace2/capture/src/jfeir/audio/capture capture
+  196  cd capture
+  197  ll
+  198  cd capture
+  199  ll
+  200  pwd
+  201  dd
+  202  ll
+  203  history
+  204  groovy capture.groovy
+  205  ping MediaServer1
+  206  path
+  207  echo $PATH
+  208  node -v
+  209  sudo npm install npm -g
+  210  npm install npm -g
+  211  npm install -g ember-cli
+  212  python
+  213  env | grep -i python
+  214  echo $PATH
+  215  export PATH=$PATH:/cygdrive/c/Python27
+  216  echo $PATH
+  217  python
+  218  python -version
+  219  npm install -g ember-cli
+  220  ember new my-app
+  221  git
+  222  echo $PATH
+  223  git
+  224  export PATH=$PATH:/cygdrive/c/apps/Git/bin
+  225  git
+  226  ember new my-app
+  227  dd
+  228  rm -rf my-app
+  229  ember new my-app
+  230  dd
+  231  cd my-app
+  232  ember server
+  233  node -v
+  234  npm -v
+  235  which node
+  236  which npm
+  237  vi hello.js
+  238  ll
+  239  node hello.js
+  240  node -v
+  241  npm -v
+  242  ember -v
+  243  cd capture
+  244  ll
+  245  groovy capture.groovy
+  246  cd catpure
+  247  cd capture
+  248  groovy capture.groovy
+  249  ping MediaServer4
+  250  ping
+  251  ping -4 MediaServer4
+  252  groovy capture.groovy
+  253  man ln
+  254  ln -sf C:/Users/jfeir/workspace2/capture/src/jfeir/audio/capture capture
+  255  cd caputre
+  256  cd capture
+  257  ll
+  258  groovy capture.groovy
+  259  ll
+  260  cd x:
+  261  dd
+  262  cd john
+  263  dd
+  264  cd audo
+  265  cd audio
+  266  dd
+  267  cd podcasts
+  268  ll
+  269  cd tal
+  270  ll
+  271  for i in $(seq 544 576); do wget http://audio.thisamericanlife.org/jomamashouse/ismymamashouse/$i.mp3;done
+  272  wget
+  273  hostname
+  274  ping
+  275  ping jfeir-toshiba
+  276  ping -4 jfeir-toshiba
+  277  hostname
+  278  ping -d jfeir-toshiba
+  279  ping -4 jfeir-toshiba
+  280  netstat -a
+  281  ping -4 jfeir-toshiba
+  282  netstat -a
+  283  netstat -an
+  284  netstat -a
+  285  history | grep groovy
+  286  cd C:/Users/jfeir/workspace2/capture/src/main/resources
+  287  ll
+  288  cd c:/audio
+  289  cd C:/Users/jfeir/workspace2/capture/src/main/resources
+  290  cd ..
+  291  ll
+  292  cd ..
+  293  ll
+  294  fh '*.groovy'
+  295  ll
+  296  cd jfeir
+  297  cd audio
+  298  cd capture
+  299  ll
+  300  groovy capture.groovy
+  301  ps -ef
+  302  groovy capture.groovy
+  303  history
+  304  cd jfeir
+  305  cd c:/jfeir
+  306  cd audio
+  307  dd
+  308  cd c:/workspace2
+  309  dd
+  310  cd c:/
+  311  ll
+  312  dd
+  313  cd C:/Users/jfeir/workspace2/capture/src/jfeir/audio/capture
+  314  ll
+  315  groovy capture.groovy
+  316   
+  317  history
+  318  cd windows
+  319  cd c:/windows
+  320  cd system32
+  321  cd drivers
+  322  ll
+  323  >hosts
+  324  cd c:/windows/system32
+  325  cd drivers
+  326  ll
+  327  >hosts
+  328  ll
+  329  ping wunderground.com
+  330   ipconfig /flushdns
+  331  cd c:/windows
+  332  cd system32
+  333  cd drivers
+  334  dd
+  335  mkdir etc
+  336  cd etc
+  337  ll
+  338  cp hosts hosts.mk
+  339  cd ..
+  340  ll
+  341  mv hosts etc/
+  342  cd etc
+  343  ll
+  344   ipconfig /flushdns
+  345  vi hosts
+  346  cd c:/windows
+  347  cd system32/drivers
+  348  dd
+  349  cd etc
+  350  cd ..
+  351  chmod 777 etc
+  352  dd
+  353  ll
+  354  cd ..
+  355  dd
+  356  cd SysWOW64
+  357  dd
+  358  cd drivers
+  359  dd
+  360  cd etc
+  361  mkdir etc
+  362  dd
+  363  ll ../../system32/drivers/etc
+  364  cp ../../system32/drivers/etc/hosts .
+  365  ll
+  366  history
+  367  ipconfig /flushdns
+  368  ll
+  369  mv hosts hosts.notused
+  370  ll
+  371  ipconfig /flushdns
+  372  cd ..
+  373  cd system32
+  374  cd drivers/erc
+  375  cd drivers
+  376  cd etc
+  377  ll
+  378  mv hosts.mk hosts.orig
+  379  cp hosts hosts.new
+  380  ipconfig /flushdns
+  381  hostname
+  382  ping jfeir-toshiba
+  383  ping -4 jfeir-toshiba
+  384  ping
+  385  ping cyclingtorrents.nl
+  386  cd ffmpeg
+  387  cd appd
+  388  cd apps
+  389  cd c:/apps
+  390  cd ffmpeg
+  391  cd *
+  392  ll
+  393  cd gin
+  394  cd bin
+  395  ll
+  396  ffmpeg
+  397  ./ffmpeg.exe
+  398  ffmpeg -i "old_filename" -c copy "new_filename"
+  399  ./ffmpeg.exe -i "xold_filename" -c copy "new_filename"
+  400  ./ffmpeg
+  401  ./ffmpeg -h
+  402  ./ffmpeg.exe -i "X:/john/torrent/MTB World Cup 2016 - Round 2 XCO Men/_/MTB World Cup 2016 - Round 2 XCO Men.ts" -c copy "temp.mkv"
+  403  echo $PATH
+  404  export PATH=${PATH}:/cygdrive/c/apps/ffmpeg/ffmpeg-20160703-d5edb6c-win64-static/bin
+  405  cd ..
+  406  echo $PATH
+  407  ffmpeg
+  408  x:
+  409  cd x:
+  410  cd john
+  411  cd torrent
+  412  ll
+  413  cd torrent
+  414  ll | grep mtb
+  415  ll | grep -i mtb
+  416  cd cd "MTB World Cup 2016 - Round 2 XCO Men"
+  417  cd "MTB World Cup 2016 - Round 2 XCO Men"
+  418  ll
+  419  cd _
+  420  ll
+  421  history
+  422  ffmpeg.exe -i "MTB World Cup 2016 - Round 2 XCO Men.ts" -c copy "MTB World Cup 2016 - Round 2 XCO Men.mkv"
+  423  ll
+  424  cd 
+  425  hostname
+  426  ping -6 jfeir-toshiba
+  427  ping jfeir-toshiba
+  428  ping -4 jfeir-toshiba
+  429  hostname
+  430  ping -4 jfeir-toshiba
+  431  telnet
+  432  base64
+  433  echo "U2FsdGVkX1+LzHB/vksC+Ftwtm58jDOkOVkLIqtKJF0=" | base64 --decode
+  434  netsh
+  435  ipconfig
+  436  hostname
+  437  ping jfeir-toshiba
+  438  ping -4 jfeir-toshiba
+  439  diskmgmt.msc
+  440  git
+  441  alias
+  442  git
+  443  env
+  444  echo ${path}
+  445  echo $PATH
+  446  $GIT_HOME/bin/git
+  447  git
+  448  exit
+  449  git
+  450  echo $PATH
+  451  ll 
+  452  exit
+  453  git
+  454  pwd
+  455  cd ..
+  456  mkdir pi-hole
+  457  cd pi-hole
+  458  git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
+  459  ll
+  460  git
+  461  bash
+  462  ll
+  463  cp
+  464  cp --help
+  465  export sourcePath="c:\torrent"
+  466  export targetPath="x:\john\torrent"
+  467  ls -tr "${sourcePath}\*.*"
+  468  rsync
+  469  sleep 1000
+  470  ls
+  471  cd x:
+  472  ll
+  473  date
+  474  time
+  475  export targetPath="X:/john/video/cycling"
+  476  find "${sourcePath}" -maxdepth 1 -type f
+  477  export sourcePath="c:/torrent"
+  478  find "${sourcePath}" -maxdepth 1 -type f
+  479  find "${sourcePath}" -maxdepth 1 -type f -printf "%f\n"
+  480  cd x:
+  481  mount
+  482  ll \\NASE5C000
+  483  ll \\NASE5C000\homes
+  484  ll //NASE5C000\
+  485  ll //NASE5C000
+  486  ll //NASE5C000/home
+  487  ll //NASE5C000/home/video
+  488  ll //NASE5C000/home/video/cycling
+  489  tracert
+  490  tracert 192.168.1.54
+  491  ping 192.168.1.54
+  492  hostnamne
+  493  ipconfig
+  494  ping 192.168.1.54
+  495  ping 192.168.1.39
+  496  hostname
+  497  ping jfeir-toshiba
+  498  ping -4 jfeir-toshiba
+  499  hostname
+  500  ping -4 jfeir-toshiba
+  501  history
+  502  cd audio
+  503  ll
+  504  cd ..
+  505  ll
+  506  cd audio
+  507  dd
+  508  ll stream-rip/
+  509  ll
+  510  dd
+  511  cd stream-rip/
+  512  ll
+  513  pwd
+  514  ll
+  515  cd ..
+  516  ll
+  517  cd groovy
+  518  ll
+  519  cd ..
+  520  history
+  521  cd C:/Users/jfeir/workspace2/capture
+  522  ll
+  523  ll bin
+  524  history
+  525  groovy capture.groovy
+  526  ll
+  527  cd src
+  528  ll
+  529  cd ..
+  530  ll
+  531  capture
+  532  cd capture
+  533  ll
+  534  cd src
+  535  ll
+  536  cd jfeir
+  537  ll
+  538  cd audio
+  539  ll
+  540  cd capture
+  541  ll
+  542  which capture
+  543  pwd
+  544  ll
+  545  history > hist.txt
